@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Souvik Roy,
 - 👀 I’m interested in being a Data Analyst,
-- 🌱 I’m currently learning Python Programming,
+- 🌱 I’m currently learning Power Bi,
 - 💞️ I’m looking to collaborate on a project,
 - 📫 Reach me on souvikroy362@gmail.com
 
